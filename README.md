@@ -1,4 +1,4 @@
-# Python Scripts to get book related data
+# Python scripts to get book related data
 
 Script for scraping hebban.nl
 
